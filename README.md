@@ -20,7 +20,7 @@ Make sure you have Rust installed. If not, you can download and install it from 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [https://github.com/demigod66/fahrenheit-to-celsius-rust.git](https://github.com/demigod66/farenheit-to-celcius)
+   git clone https://github.com/demigod66/farenheit-to-celcius
 
 2. Navigate to the project directory:
    ```bash
